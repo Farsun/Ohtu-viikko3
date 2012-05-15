@@ -1,1 +1,5 @@
-trololoo herpderp
+<<<<<<< HEAD
+aerpderp
+=======
+herpderp spudrospädrö 
+>>>>>>> toka
